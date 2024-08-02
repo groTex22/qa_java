@@ -24,8 +24,6 @@ target/
 *.tar.gz
 *.rar
 
-# игнорировать все файлы с расширением .doc
-*.class
 .idea
 
 ### VS Code ###
